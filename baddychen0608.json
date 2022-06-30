@@ -42,7 +42,7 @@
 {"key":"csp_appysv2_9e国语","name":"9E国语","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"key":"酷猫影视","name":"酷猫影视(聚)","type":1,"api":"https://www.pgcms10.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_xpath_网络搜集库qiumi","name":"球迷🏀","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/99/x/raw/branch/main/516-qiumi.js"},
-
+{"key":"csp_appys_美剧虫","name":"🍎美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
 
 {"key": "teyond__xp__极品影视","name": "🍎极品影视〔X〕","type": 3,"api": "csp_XPathMac"      ,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://mtv.chxjon.cn/m/xpath/极品影视.json"},
 
