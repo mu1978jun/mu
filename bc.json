@@ -1,7 +1,7 @@
 ﻿// 配置地址 --> clan://localhost/TVBox/bc.json
 
 {
-"spider":"https://mu1978jun.github.io/mu/0627.jar",
+"spider":"https://mu1978jun.github.io/mu/0630.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2JjLnR4dA=="]}]}],
 
 
