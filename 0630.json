@@ -1,7 +1,7 @@
 
 
 {
-"spider":"https://mu1978jun.github.io/mu/0630.jar",
+"spider":"https://ghproxy.com/https://mu1978jun.github.io/mu/0630.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2JjLnR4dA=="]}]}],
 
 
