@@ -1,7 +1,7 @@
 ﻿
 // 配置地址 --> https://mu1978jun.github.io/mu/localhost/TVBox/0630.json
 {
-"spider":"https://ghproxy.com/https://mu1978jun.github.io/mu/0701apple.jar",
+"spider":"https://ghproxy.com/https://mu1978jun.github.io/mu/0701apple.jar.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2JjLnR4dA=="]}]}],
 
@@ -53,7 +53,7 @@
 {"key": "csp_xpath_网络搜集库qiumi","name": "⚽️球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://mu1978jun.github.io/mu/TVBox/MaooXB/qiumi.json"},
 {"key": "csp_xpath_A33","name": "🎸MTV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://mu1978jun.github.io/mu/TVBox/MaooXB/mtv.json"},
 {"key":"海外电影","name":"🌈海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
-{"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},  
+//{"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},  
 ],
 
 
