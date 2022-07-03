@@ -1,7 +1,7 @@
 ﻿
 // 配置地址 --> https://mu1978jun.github.io/mu/localhost/TVBox/0630.json
 {
-"spider":"https://gitee.com/each-and-every-family/jiang/blob/master/0701apple.jar",
+"spider":"https://gitee.com/each-and-every-family/jiang/blob/master/0630.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2JjLnR4dA=="]}]}],
 
