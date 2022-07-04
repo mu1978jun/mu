@@ -31,7 +31,7 @@
 {"key":"csp_DiDuan","name":"🌀低端影视(SP)","api":"csp_DiDuan","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🚬厂长(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nbys","name":"⭐️泥巴(SP需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_GitCafe","name":"🦊小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"a5d77c9d11d540558514de987e70eaac"},
+{"key":"csp_GitCafe","name":"🦊小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Bttoo","name":"🍷两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_appys_美剧虫","name":"🐞美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},  
 {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mu1978jun.github.io/mu/MeowXP/huya2.json"},
