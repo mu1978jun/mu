@@ -29,6 +29,7 @@
 {"key":"csp_Buka","name":"🍁真不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 { "key": "Ikan","name": "🌈lkan","type": 3,"api": "csp_IKan","searchable": 1, "quickSearch": 1,"filterable": 1 },
 {"key": "Kmys","name": "🔥酷猫","type": 3,"api": "csp_Kmys", "searchable": 1,"quickSearch": 1, "filterable": 1 },
+{"key":"csp_biubiu_LIBVIO","name":"🔷LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mu1978jun.github.io/mu/MeowXB/LIBVIO.json"},
 {"key":"csp_Auete","name":"🎯Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"🌀低端影视(SP)","api":"csp_DiDuan","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🚬厂长(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
